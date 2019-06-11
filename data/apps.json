@@ -1,0 +1,200 @@
+[
+  {
+    "appName": "爱奇艺",
+    "appId": 1,
+    "type": "av",
+    "appIcon": "http://www.iqiyipic.com/common/fix/site-v4/sprite-headLogo-index.png",
+    "appCost": 0,
+    "appWord": "爱奇艺——悦享品质",
+    "appDownLoad": "http://gdown.baidu.com/data/wisegame/512607400ea95030/aiqiyi_81290.apk"
+  },
+  {
+    "appName": "百度云",
+    "appId": 2,
+    "appIcon": "https://ss0.baidu.com/6ONWsjip0QIZ8tyhnq/it/u=3679286895,319448069&fm=179&app=42&f=JPEG?w=56&h=56",
+    "appCost": 0,
+    "type": "life",
+    "appWord": "百度云盘-让美好永存",
+    "appDownLoad": "http://issuecdn.baidupcs.com/issue/netdisk/yunguanjia/BaiduYunGuanjia_6.7.4.exe"
+  },
+  {
+    "appName": "斗鱼",
+    "appId": 3,
+    "appIcon": "https://ss1.baidu.com/70cFfyinKgQFm2e88IuM_a/forum/pic/item/a08b87d6277f9e2f4fa7ea291230e924b899f305.jpg",
+    "appCost": 10,
+    "type": "game",
+    "appWord": "斗鱼-每个人的直播平台",
+    "appDownLoad": "https://sta-op.douyucdn.cn/dyadmin-ext/client-download/pc/pkg/Douyu_Live_PC_Client/20190531151332357/Douyu_Live_PC_Client_201905310.exe"
+  },
+  {
+    "appName": "谷歌浏览器",
+    "appId": 4,
+    "appIcon": "https://ss2.baidu.com/6ONYsjip0QIZ8tyhnq/it/u=2440393052,1709305054&fm=179&app=42&f=JPEG?w=56&h=56",
+    "appCost": 20,
+    "type": "work",
+    "appWord": "Google Chrome 网络浏览器",
+    "appDownLoad": "http://www.baidu.com/link?url=1HxUHD292GIWmrOyGba6fQbkDmkJFyftE_B66ROfUeDVF5Wp3T1qbmM0m7QENv78jGgDLbcMPZ9Lm7a0yQs79wDCCj6fwrBP4eiDJ9tDBz0AVxnK2TGThTT2tSUczg47QkuSU32rF2Cv-oOCcWQL82DhXXoT3cg7fIUU9eUjewu"
+  },
+  {
+    "appName": "英雄联盟",
+    "appId": 5,
+    "appIcon": "https://timg01.bdimg.com/timg?appsite&size=w136&quality=90&sec=0&nocache&di=4a95dc94a6e0278e4d9abfac1f68d06c&src=http%3A%2F%2Fd.hiphotos.bdimg.com%2Fwisegame%2Fpic%2Fitem%2F85cd7b899e510fb3dcc2eab6d033c895d1430c3c.jpg",
+    "appCost": 20,
+    "type": "game",
+    "appWord": "英雄联盟——推动全球电子竞技",
+    "appDownLoad": "http://down.qq.com/lol/dltools/LOL_V4.1.3.8_FULL_0_tgod_signed.exe"
+  },
+  {
+    "appName": "火狐浏览器",
+    "appIcon": "https://ss2.baidu.com/6ONYsjip0QIZ8tyhnq/it/u=385099925,656648161&fm=179&app=42&f=PNG?w=56&h=56",
+    "appCost": 20,
+    "type": "work",
+    "appId": 6,
+    "appWord": "Firefox 火狐浏览器 - 全新、安全、快速",
+    "appDownLoad": "http://www.baidu.com/link?url=fDHX0KP2YqAR_PDi933-n4o3tQQJAI_YKFHjaexqVkMxYAzHqvK6XvFzMNfg7eg3il0dpkNh8cSKgaaG4axo2K"
+  },
+  {
+    "appId": 7,
+    "appName": "芒果TV",
+    "appIcon": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1560739036&di=aea712bb5fd7a347c2af577c86d8f493&imgtype=jpg&er=1&src=http%3A%2F%2Fwx3.sinaimg.cn%2Flarge%2F6320b814ly1ft6vbjg2ihj20g60g6759.jpg",
+    "appCost": 0,
+    "type": "av",
+    "appWord": "芒果tv-看见好时光",
+    "appDownLoad": "http://www.baidu.com/link?url=xDOviseSxSQGnBaGRzzSpIsbbUrZFguI2YKeWkQuOeBKEnXiQnwEa_CwQUuLpWUsmPdu5Gm-sd4vBVh9BNB9RgAcpmN-o2b7efSll9kmPV_"
+  },
+  {
+    "appId": 8,
+    "appName": "腾讯视频",
+    "appIcon": "http://img2.imgtn.bdimg.com/it/u=1267303307,1380868239&fm=26&gp=0.jpg",
+    "appCost": 0,
+    "type": "av",
+    "appWord": "腾讯视频——不负好时光",
+    "appDownLoad": "http://www.baidu.com/link?url=3eb8yzGwhlLM2FCh-UY_Ib92XXKgAehwAEi9TUt8CTi8WqT29FOyZJxRTEuSCgRt6yojxHhPwM3KhqbKb2WfyXRF6WuI5CEr_Vr92AZ_0pq"
+  },
+  {
+    "appName": "欢乐斗地主",
+    "appIcon": "https://game.gtimg.cn/images/hlddz/web2017/logo.png",
+    "appCost": 0,
+    "appId": 9,
+    "type": "game",
+    "appWord": "欢乐斗地主——角色、策略、3D",
+    "appDownLoad": "http://www.baidu.com/link?url=6Z9kfxeQVuF2xplw1NrzxXzzDzhZiDM-Fql07aE2hLY0fyaTzwe2KehjCbgjHl67ttei8YfvWUb_Tj-wEdoJX_"
+  },
+  {
+    "appName": "虎牙直播",
+    "appIcon": "https://ss3.bdstatic.com/yrwDcj7w0QhBkMak8IuT_XF5ehU5bvGh7c50/logopic/39fde3242b07bd0f96cb9db88897fdc8_fullsize.jpg@s_1,w_484,h_484",
+    "appCost": 10,
+    "appId": 10,
+    "type": "game",
+    "appWord": "虎牙直播-技术驱动娱乐-弹幕式互动直播平台",
+    "appDownLoad": "https://download.huya.com/huyapc/install/HuyaClientInstall.exe"
+  },
+  {
+    "appName": "WPS Office",
+    "appIcon": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1560144943523&di=691686fe2d9ed4ef5b3620d602466527&imgtype=0&src=http%3A%2F%2Fpic.downyi.com%2Fupload%2F2018-8%2F2018811105069041.png",
+    "appCost": 5,
+    "appId": 11,
+    "appWord": "简单 创造不简单",
+    "type": "work",
+    "appDownLoad": "https://wdl1.cache.wps.cn/wps/download/W.P.S.8696.12012.2019.exe"
+  },
+  {
+    "appName": "有道词典",
+    "appIcon": "https://ss0.baidu.com/6ONWsjip0QIZ8tyhnq/it/u=2752980396,2400711269&fm=58&bpow=1028&bpoh=1028",
+    "appCost": 5,
+    "appId": 12,
+    "appWord": "网易有道词典",
+    "type": "life",
+    "appDownLoad": "http://cidian.youdao.com/download/YoudaoDict.exe"
+  },
+  {
+    "appName": "守望先锋",
+    "appIcon": "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3277735433,3982354092&fm=26&gp=0.jpg",
+    "appCost": 158,
+    "appId": 13,
+    "type": "game",
+    "appWord": "守望先锋——团队射击游戏",
+    "appDownLoad": "http://cidian.youdao.com/download/YoudaoDict.exe"
+  },
+  {
+    "appName": "QQ",
+    "appIcon": "https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=1809927334,1828281527&fm=179&app=42&f=JPEG?w=56&h=56",
+    "appCost": 0,
+    "appId": 14,
+    "appWord": "QQ-每一天，乐在沟通",
+    "type": "life",
+    "appDownLoad": "https://dldir1.qq.com/qqfile/qq/PCQQ9.1.3/25332/QQ9.1.3.25332.exe"
+  },
+  {
+    "appName": "微信",
+    "appIcon": "https://ss2.baidu.com/6ONYsjip0QIZ8tyhnq/it/u=2136740882,3271518133&fm=58&bpow=630&bpoh=630",
+    "appCost": 0,
+    "appWord": "微信是一种生活方式",
+    "appId": 15,
+    "type": "life",
+    "appDownLoad": "https://dldir1.qq.com/weixin/Windows/WeChatSetup.exe"
+  },
+  {
+    "appName": "美图秀秀",
+    "appIcon": "https://ss0.baidu.com/6ONWsjip0QIZ8tyhnq/it/u=1114638267,806970493&fm=58&s=A7F4E832CE8529530E2F92F90300502D&bpow=121&bpoh=75",
+    "appCost": 0,
+    "appId": 16,
+    "type": "life",
+    "appWord": "meitu-美图秀秀",
+    "appDownLoad": "http://www.baidu.com/link?url=JBd0I1BDUXGKdl-riQjdoAy31V8BvUQwnGxpd6xqKDi1ghrD6RJkDSvj1dt8JEttLHiig6OH7rXGrQ0CF33KZ_"
+  },
+  {
+    "appName": "酷我音乐",
+    "appIcon": "https://ss3.bdstatic.com/yrwDcj7w0QhBkMak8IuT_XF5ehU5bvGh7c50/logopic/2d90381cfd5fd913174b6c28e6fccc02_fullsize.jpg@s_1,w_484,h_484",
+    "appCost": 0,
+    "appWord": "听音乐——用酷我",
+    "appId": 17,
+    "type": "av",
+    "appDownLoad": "http://down.kuwo.cn/mbox/kwmusic_web_1_bcs_20190605.exe"
+  },
+  {
+    "appName": "visual studio code",
+    "appIcon": "http://img2.imgtn.bdimg.com/it/u=1713308851,2323808875&fm=26&gp=0.jpg",
+    "appCost": 0,
+    "appId": 18,
+    "type": "develop",
+    "appWord": "Visual Studio Code - Code Editing. Redefined",
+    "appDownLoad": "http://www.baidu.com/link?url=xqUBd4Pk8clfQQu0QnpUSydg_yIev4A2B60noPRQA3xcajz2qnJ6kfyT867wAq7KUy5Es0CDqGKTjSKMoEIsz7FTzyAhaVRhH77tgP7mZl6jxPoFUrMnG9i5hbjJO5SVO4bFCB4S8OTCEe9vBvGRb_"
+  },
+  {
+    "appName": "Eclipse",
+    "appIcon": "https://ss0.baidu.com/6ONWsjip0QIZ8tyhnq/it/u=2712477069,1146026712&fm=179&app=42&f=JPEG?w=56&h=56",
+    "appCost": 0,
+    "appId": 19,
+    "type": "develop",
+    "appWord": "Eclipse",
+    "appDownLoad": "http://www.baidu.com/link?url=wUP410qYwiHgqQ8fXKFdKsKzyHo58953wykp1h6jy_SgHkSQ8N0q36fqlHO4g4_fBNCyljuFXm6Mcn0VXwBN7CCqi3qSTpH1QkhxI3xj51G"
+  },
+  {
+    "appName": "Sublime Text",
+    "appIcon": "http://img0.imgtn.bdimg.com/it/u=4079051430,2671932868&fm=26&gp=0.jpg",
+    "appCost": 30,
+    "appId": 20,
+    "appWord": "A sophisticated text editor for code, markup and prose",
+    "type": "develop",
+    "appDownLoad": "https://download.sublimetext.com/Sublime Text Build 3207.dmg"
+  },
+  {
+    "appName": "网易云音乐",
+    "appIcon": "https://ss0.baidu.com/6ONWsjip0QIZ8tyhnq/it/u=872221839,891776347&fm=179&app=42&f=JPEG?w=55&h=56",
+    "appCost": 0,
+    "appId": 21,
+    "appWord": "欢迎所有音乐妄想",
+    "type": "av",
+    "appDownLoad": "http://www.baidu.com/link?url=-9bfAYQU6CWPZ90hjN0za_6HgfS_XABuJ4DxVOQtIBSQ1xd4cdCZXllHwfgqqZlkgr6o8ylqpOgGo-e93hHhNICX-FJDSFek1u6aciIraG7"
+  },
+  {
+    "appName": "IDEA",
+    "appIcon": "https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=2995446634,2852731158&fm=179&app=42&f=JPG?w=121&h=140",
+    "appCost": 0,
+    "appId": 22,
+    "appWord": "最好的java开发工具之一",
+    "type": "develop",
+    "appDownLoad": "http://www.jetbrains.com/idea/download/download-thanks.html?platform=windows7"
+  }
+]

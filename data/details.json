@@ -1,0 +1,337 @@
+[
+  {
+    "_id": "5cfdd38f67f32d076e432b1b",
+    "appId": 1,
+    "appPhoto": [
+      "https://pic3.iqiyipic.com/common/20190514/cpsImgPC-11.png",
+      "https://pic3.iqiyipic.com/common/20190514/cpsImgPC-12.png",
+      "https://pic2.iqiyipic.com/common/20190514/cpsImgPC-13.png"
+    ],
+    "appRate": 4,
+    "appDeveloper": "Beijing Qiyi Century Science",
+    "appDetail": "爱奇艺APP是一款集视频、商城、购票、阅读、直播、泡泡粉丝社区等多种服务于一体的移动软件。爱奇艺为用户提供电影、电视剧、综艺、动漫、娱乐、热点资讯等内容，视频播放清晰流畅，操作界面简单友好。优质的纯网内容、贴心的生活服务满足用户“悦享品质、时尚青春”的生活追求。泡爱豆领福利，就在爱奇艺泡泡，个性追星就酱简单。",
+    "appCopyRight": "Copyright © 2017 爱奇艺 All Rights Reserved",
+    "appSize": "36.7MB",
+    "appLanguage": "中文",
+    "appAge": "12"
+  },
+  {
+    "_id": "5cfdd3cf67f32d076e432b1c",
+    "appId": 2,
+    "appPhoto": [
+      "https://appstore-yyh.oss-cn-beijing.aliyuncs.com/baidunyunpan.jpg",
+      "https://appstore-yyh.oss-cn-beijing.aliyuncs.com/baiduyunpan.jpg"
+    ],
+    "appRate": 4,
+    "appDeveloper": "百度在线网络技术(北京)有限公司",
+    "appDetail": "百度网盘(原百度云)是由百度公司出品的一款个人云服务产品。使用百度网盘领取超大空间，相册、短信、通讯录、通话记录一键备份到云端，更有手机找回、密码锁等功能全方位为你数据保驾护航。群组分享-添加好友，创建群组，如学习群、聚会群、班级群等，一人分享，全群共享。照片时光轴按照片拍摄时间、地点分类，管理照片更加方便快捷。闪电互传无需网络支持，传游戏、视频、图片等，速度比蓝牙快70倍。",
+    "appCopyRight": "©2019 Baidu 移动开放平台",
+    "appSize": "56.37MB",
+    "appLanguage": "中文"
+  },
+  {
+    "_id": "5cfdd3dd67f32d076e432b1d",
+    "appId": 3,
+    "appPhoto": [
+      "https://appstore-yyh.oss-cn-beijing.aliyuncs.com/dy.jpg",
+      "https://appstore-yyh.oss-cn-beijing.aliyuncs.com/dy2.jpg"
+    ],
+    "appRate": 4,
+    "appDeveloper": "武汉斗鱼网络科技有限公司",
+    "appDetail": "英雄联盟LOL：2019LPL夏季赛开战，斗鱼签约战队IG,JDG等战队踏上新征程，共同争夺LPL夏季赛No12019亚洲对抗赛，亚洲赛区强队齐聚争夺No1，LPL、LCK强队出征应战，证明赛区实力！斗鱼DOTA2：斗鱼独播新赛季第三个major级赛事梦幻联赛S11 王 者荣耀：2019年KPL春季赛，斗鱼全程直播，新的征程，邀你共赏！ 绝地求生：开局一口锅，装备全靠抢，上斗鱼看17、OMG等职业选手天秀吃鸡 APEX英雄：泰坦之星，在战火硝烟绝处逢生！ APEX英雄只争风云 ！2019 斗鱼apex直播，精彩战斗在这等你来看！ 刀塔自走棋：斗鱼自制大型刀塔自走棋联赛体系——斗鱼棋技联赛，寻找下一任“棋技哥” 和平精英、荒岛特训、炉石传说...专业游戏直播，你想看的都在这里",
+    "appCopyRight": " ©www.douyu.com 鄂ICP备15011961号-",
+    "appSize": "44.72MB",
+    "appLanguage": "中文",
+    "appAge": "18"
+  },
+  {
+    "_id": "5cfdd3e867f32d076e432b1e",
+    "appId": 4,
+    "appPhoto": [
+      "https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=1715389704,3746975304&fm=26&gp=0.jpg",
+      "https://appstore-yyh.oss-cn-beijing.aliyuncs.com/Google2.jpg",
+      "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3737703096,4134512882&fm=26&gp=0.jpg"
+    ],
+    "appRate": 4,
+    "appDeveloper": "Google Inc",
+    "appDetail": "Google Chrome是由Google开发的一款设计简单、高效的Web浏览工具。Google Chrome的特点是简洁、快速。GoogleChrome支持多标签浏览，每个标签页面都在独立的“沙箱”内运行，在提高安全性的同时，一个标签页面的崩溃也不会导致其他标签页面被关闭。此外，Google Chrome基于更强大的JavaScript V8引擎，这是当前Web浏览器所无法实现的。",
+    "appCopyRight": "Copyright ©Google Inc All Rights Reserved",
+    "appSize": "36.7MB",
+    "appLanguage": "中文/英文等 ",
+    "appAge": "16"
+  },
+  {
+    "_id": "5cfdd40f67f32d076e432b1f",
+    "appId": 5,
+    "appPhoto": [
+      "https://ossweb-img.qq.com/upload/adw/image/20190609/ae301c81a1ca9a1e382a9b016637741c.jpeg",
+      "https://ossweb-img.qq.com/upload/adw/image/20190611/633be71a753f4f0c40fb8c498de4d9a0.jpeg",
+      "https://ossweb-img.qq.com/upload/adw/image/20190607/1e259de21e3eece6dbf6099e4882c672.jpeg"
+    ],
+    "appRate": 5,
+    "appDeveloper": "腾讯互动娱乐",
+    "appDetail": "《英雄联盟》(简称LOL)是由美国拳头游戏(Riot Games)开发、中国大陆地区腾讯游戏代理运营的英雄对战MOBA竞技网游。游戏里拥有数百个个性英雄，并拥有排位系统、符文系统等特色养成系统。《英雄联盟》还致力于推动全球电子竞技的发展，除了联动各赛区发展职业联赛、打造电竞体系之外，每年还会举办“季中冠军赛”“全球总决赛”“All Star全明星赛”三大世界级赛事，获得了亿万玩家的喜爱，形成了自己独有的电子竞技文化。 [1]  英雄联盟是一款多人竞技类游戏，于2018年加入亚运会。",
+    "appCopyRight": "COPYRIGHT © 1998 - 2019 TENCENT. ALL RIGHTS RESERVED",
+    "appSize": "2.88GB",
+    "appLanguage": "中文",
+    "appAge": "18"
+  },
+  {
+    "_id": "5cfdd41b67f32d076e432b20",
+    "appId": 6,
+    "appPhoto": [
+      "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1560834041&di=db12aca022771b3847e46d78f4d4717b&imgtype=jpg&er=1&src=http%3A%2F%2Fwww.ucbug.cc%2Fuploads%2F150404%2F1-150404131610B6.jpg",
+      "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1560239322379&di=fb6966114a9122091e7b1b8b9e16d629&imgtype=0&src=http%3A%2F%2Fi-2.yiwan.com%2F2016%2F2%2F16%2F9e81732f-5998-478e-9274-fc68d2cfc138.png",
+      "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1872475038,1495427518&fm=27&gp=0.jpg"
+    ],
+    "appRate": 3,
+    "appDeveloper": "北京谋智火狐信息技术有限公司",
+    "appDetail": "★快速：－快速浏览：从启动到页面加载，到平移和缩放，都有超快的浏览体验－智能工具栏：轻点智能工具栏，即可获得经常访问的网站列表、书签和历史记录，点击访问，无需输入－便捷：简洁易用标签页便于您同时浏览多个站点－加载项：提供无图阅读模式，流量受限时启用也能便捷查看网页★智能：－同步：从任何装置存取您浏览器的历史纪录、书签、密码，以及开启的标签页－插件：提供多种功能插件以丰富您的浏览器，安装简单，易于管理★安全：－进阶安全性：控制您的隐私、安全性，以及您想在网络上分享多少数据－隐私保护：支持Do Not Track （请勿跟踪），保护用户隐私－放心浏览：内建网络欺诈和恶意软件检测提醒",
+    "appCopyRight": "Copyright © 2011–2019 Mozilla Firefox Ltd",
+    "appSize": "37.22MB",
+    "appLanguage": "中文",
+    "appAge": "12"
+  },
+  {
+    "_id": "5cfdd42867f32d076e432b21",
+    "appId": 7,
+    "appPhoto": [
+      "https://2img.hitv.com/preview/cms_icon/2019/6/10/06/20190610193129907.jpg_1200x608.jpg",
+      "https://2img.hitv.com/preview/cms_icon/2019/6/10/06/20190610155128431.jpg_1200x608.jpg",
+      "https://2img.hitv.com/preview/cms_icon/2019/6/1/06/20190601160148057.jpg_1200x608.jpg"
+    ],
+    "appRate": 5,
+    "appDeveloper": "湖南快乐阳光互动娱乐传媒有限公司 ",
+    "appDetail": "芒果TV是湖南广播电视台旗下唯一互联网视频平台，独家提供湖南卫视所有栏目高清视频直播点播，并为用户提供各类热门电影、电视剧、综艺、动漫、音乐、娱乐等内容。芒果游戏是芒果TV旗下网页游戏平台。",
+    "appCopyRight": "Copyright 2006-2019 mgtv.com Corporation,All Rights Reserved",
+    "appSize": "44.14MB",
+    "appLanguage": "中文",
+    "appAge": "12"
+  },
+  {
+    "_id": "5cfdd43567f32d076e432b22",
+    "appId": 8,
+    "appPhoto": [
+      "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1560835035&di=008043e391257a969e71c255ea42ae46&imgtype=jpg&er=1&src=http%3A%2F%2Fimg.cwq.com%2F201611%2F1478611182523714.jpeg",
+      "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1560240316415&di=6c926684acdca13fa53116a2b3bd271a&imgtype=0&src=http%3A%2F%2Fl.b2b168.com%2F2015%2F03%2F20%2F11%2F20150320110038426434.jpg",
+      "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1560240543698&di=026f974573d7b06e4adcc008b4b22ba8&imgtype=jpg&src=http%3A%2F%2Fimg1.imgtn.bdimg.com%2Fit%2Fu%3D3605324286%2C512019364%26fm%3D214%26gp%3D0.jpg"
+    ],
+    "appRate": 5,
+    "appDeveloper": "腾讯公司",
+    "appDetail": "腾讯视频上线于2011年4月，是在线视频平台，拥有流行内容和专业的媒体运营能力，是聚合热播影视、综艺娱乐、体育赛事、新闻资讯等为一体的综合视频内容平台，并通过PC端、移动端及客厅产品等多种形态为用户提供高清流畅的视频娱乐体验。",
+    "appCopyRight": "Copyright © 1998 - 2019 Tencent. All Rights Reserved.",
+    "appSize": "40.94MB",
+    "appLanguage": "中文",
+    "appAge": "12"
+  },
+  {
+    "_id": "5cfdd44267f32d076e432b23",
+    "appId": 9,
+    "appPhoto": [
+      "https://pic3.iqiyipic.com/common/20190514/cpsImgPC-11.png",
+      "https://pic3.iqiyipic.com/common/20190514/cpsImgPC-12.png",
+      "https://pic2.iqiyipic.com/common/20190514/cpsImgPC-13.png"
+    ],
+    "appRate": 4,
+    "appDeveloper": "Beijing Qiyi Century Science",
+    "appDetail": "爱奇艺APP是一款集视频、商城、购票、阅读、直播、泡泡粉丝社区等多种服务于一体的移动软件。爱奇艺为用户提供电影、电视剧、综艺、动漫、娱乐、热点资讯等内容，视频播放清晰流畅，操作界面简单友好。优质的纯网内容、贴心的生活服务满足用户“悦享品质、时尚青春”的生活追求。泡爱豆领福利，就在爱奇艺泡泡，个性追星就酱简单。",
+    "appCopyRight": "Copyright © 2017 爱奇艺 All Rights Reserved",
+    "appSize": "36.7MB",
+    "appLanguage": "中文"
+  },
+  {
+    "_id": "5cfdd45067f32d076e432b24",
+    "appId": 10,
+    "appPhoto": [
+      "https://pic3.iqiyipic.com/common/20190514/cpsImgPC-11.png",
+      "https://pic3.iqiyipic.com/common/20190514/cpsImgPC-12.png",
+      "https://pic2.iqiyipic.com/common/20190514/cpsImgPC-13.png"
+    ],
+    "appRate": 4,
+    "appDeveloper": "Beijing Qiyi Century Science",
+    "appDetail": "爱奇艺APP是一款集视频、商城、购票、阅读、直播、泡泡粉丝社区等多种服务于一体的移动软件。爱奇艺为用户提供电影、电视剧、综艺、动漫、娱乐、热点资讯等内容，视频播放清晰流畅，操作界面简单友好。优质的纯网内容、贴心的生活服务满足用户“悦享品质、时尚青春”的生活追求。泡爱豆领福利，就在爱奇艺泡泡，个性追星就酱简单。",
+    "appCopyRight": "Copyright © 2017 爱奇艺 All Rights Reserved",
+    "appSize": "36.7MB",
+    "appLanguage": "中文"
+  },
+  {
+    "_id": "5cfdd47c67f32d076e432b25",
+    "appId": 11,
+    "appPhoto": [
+      "https://pic3.iqiyipic.com/common/20190514/cpsImgPC-11.png",
+      "https://pic3.iqiyipic.com/common/20190514/cpsImgPC-12.png",
+      "https://pic2.iqiyipic.com/common/20190514/cpsImgPC-13.png"
+    ],
+    "appRate": 4,
+    "appDeveloper": "Beijing Qiyi Century Science",
+    "appDetail": "爱奇艺APP是一款集视频、商城、购票、阅读、直播、泡泡粉丝社区等多种服务于一体的移动软件。爱奇艺为用户提供电影、电视剧、综艺、动漫、娱乐、热点资讯等内容，视频播放清晰流畅，操作界面简单友好。优质的纯网内容、贴心的生活服务满足用户“悦享品质、时尚青春”的生活追求。泡爱豆领福利，就在爱奇艺泡泡，个性追星就酱简单。",
+    "appCopyRight": "Copyright © 2017 爱奇艺 All Rights Reserved",
+    "appSize": "36.7MB",
+    "appLanguage": "中文"
+  },
+  {
+    "_id": "5cfdd48867f32d076e432b26",
+    "appId": 12,
+    "appPhoto": [
+      "https://pic3.iqiyipic.com/common/20190514/cpsImgPC-11.png",
+      "https://pic3.iqiyipic.com/common/20190514/cpsImgPC-12.png",
+      "https://pic2.iqiyipic.com/common/20190514/cpsImgPC-13.png"
+    ],
+    "appRate": 4,
+    "appDeveloper": "Beijing Qiyi Century Science",
+    "appDetail": "爱奇艺APP是一款集视频、商城、购票、阅读、直播、泡泡粉丝社区等多种服务于一体的移动软件。爱奇艺为用户提供电影、电视剧、综艺、动漫、娱乐、热点资讯等内容，视频播放清晰流畅，操作界面简单友好。优质的纯网内容、贴心的生活服务满足用户“悦享品质、时尚青春”的生活追求。泡爱豆领福利，就在爱奇艺泡泡，个性追星就酱简单。",
+    "appCopyRight": "Copyright © 2017 爱奇艺 All Rights Reserved",
+    "appSize": "36.7MB",
+    "appLanguage": "中文"
+  },
+  {
+    "_id": "5cfdd4be67f32d076e432b28",
+    "appId": 14,
+    "appPhoto": [
+      "https://pic3.iqiyipic.com/common/20190514/cpsImgPC-11.png",
+      "https://pic3.iqiyipic.com/common/20190514/cpsImgPC-12.png",
+      "https://pic2.iqiyipic.com/common/20190514/cpsImgPC-13.png"
+    ],
+    "appRate": 4,
+    "appDeveloper": "Beijing Qiyi Century Science",
+    "appDetail": "爱奇艺APP是一款集视频、商城、购票、阅读、直播、泡泡粉丝社区等多种服务于一体的移动软件。爱奇艺为用户提供电影、电视剧、综艺、动漫、娱乐、热点资讯等内容，视频播放清晰流畅，操作界面简单友好。优质的纯网内容、贴心的生活服务满足用户“悦享品质、时尚青春”的生活追求。泡爱豆领福利，就在爱奇艺泡泡，个性追星就酱简单。",
+    "appCopyRight": "Copyright © 2017 爱奇艺 All Rights Reserved",
+    "appSize": "36.7MB",
+    "appLanguage": "中文"
+  },
+  {
+    "_id": "5cfdd4d167f32d076e432b29",
+    "appId": 13,
+    "appPhoto": [
+      "https://pic3.iqiyipic.com/common/20190514/cpsImgPC-11.png",
+      "https://pic3.iqiyipic.com/common/20190514/cpsImgPC-12.png",
+      "https://pic2.iqiyipic.com/common/20190514/cpsImgPC-13.png"
+    ],
+    "appRate": 4,
+    "appDeveloper": "Beijing Qiyi Century Science",
+    "appDetail": "爱奇艺APP是一款集视频、商城、购票、阅读、直播、泡泡粉丝社区等多种服务于一体的移动软件。爱奇艺为用户提供电影、电视剧、综艺、动漫、娱乐、热点资讯等内容，视频播放清晰流畅，操作界面简单友好。优质的纯网内容、贴心的生活服务满足用户“悦享品质、时尚青春”的生活追求。泡爱豆领福利，就在爱奇艺泡泡，个性追星就酱简单。",
+    "appCopyRight": "Copyright © 2017 爱奇艺 All Rights Reserved",
+    "appSize": "36.7MB",
+    "appLanguage": "中文"
+  },
+  {
+    "_id": "5cfdd4e267f32d076e432b2a",
+    "appId": 15,
+    "appPhoto": [
+      "https://pic3.iqiyipic.com/common/20190514/cpsImgPC-11.png",
+      "https://pic3.iqiyipic.com/common/20190514/cpsImgPC-12.png",
+      "https://pic2.iqiyipic.com/common/20190514/cpsImgPC-13.png"
+    ],
+    "appRate": 4,
+    "appDeveloper": "Beijing Qiyi Century Science",
+    "appDetail": "爱奇艺APP是一款集视频、商城、购票、阅读、直播、泡泡粉丝社区等多种服务于一体的移动软件。爱奇艺为用户提供电影、电视剧、综艺、动漫、娱乐、热点资讯等内容，视频播放清晰流畅，操作界面简单友好。优质的纯网内容、贴心的生活服务满足用户“悦享品质、时尚青春”的生活追求。泡爱豆领福利，就在爱奇艺泡泡，个性追星就酱简单。",
+    "appCopyRight": "Copyright © 2017 爱奇艺 All Rights Reserved",
+    "appSize": "36.7MB",
+    "appLanguage": "中文"
+  },
+  {
+    "_id": "5cfdd4f467f32d076e432b2b",
+    "appId": 16,
+    "appPhoto": [
+      "https://pic3.iqiyipic.com/common/20190514/cpsImgPC-11.png",
+      "https://pic3.iqiyipic.com/common/20190514/cpsImgPC-12.png",
+      "https://pic2.iqiyipic.com/common/20190514/cpsImgPC-13.png"
+    ],
+    "appRate": 4,
+    "appDeveloper": "Beijing Qiyi Century Science",
+    "appDetail": "爱奇艺APP是一款集视频、商城、购票、阅读、直播、泡泡粉丝社区等多种服务于一体的移动软件。爱奇艺为用户提供电影、电视剧、综艺、动漫、娱乐、热点资讯等内容，视频播放清晰流畅，操作界面简单友好。优质的纯网内容、贴心的生活服务满足用户“悦享品质、时尚青春”的生活追求。泡爱豆领福利，就在爱奇艺泡泡，个性追星就酱简单。",
+    "appCopyRight": "Copyright © 2017 爱奇艺 All Rights Reserved",
+    "appSize": "36.7MB",
+    "appLanguage": "中文"
+  },
+  {
+    "_id": "5cfdd50467f32d076e432b2c",
+    "appId": 17,
+    "appPhoto": [
+      "https://pic3.iqiyipic.com/common/20190514/cpsImgPC-11.png",
+      "https://pic3.iqiyipic.com/common/20190514/cpsImgPC-12.png",
+      "https://pic2.iqiyipic.com/common/20190514/cpsImgPC-13.png"
+    ],
+    "appRate": 4,
+    "appDeveloper": "Beijing Qiyi Century Science",
+    "appDetail": "爱奇艺APP是一款集视频、商城、购票、阅读、直播、泡泡粉丝社区等多种服务于一体的移动软件。爱奇艺为用户提供电影、电视剧、综艺、动漫、娱乐、热点资讯等内容，视频播放清晰流畅，操作界面简单友好。优质的纯网内容、贴心的生活服务满足用户“悦享品质、时尚青春”的生活追求。泡爱豆领福利，就在爱奇艺泡泡，个性追星就酱简单。",
+    "appCopyRight": "Copyright © 2017 爱奇艺 All Rights Reserved",
+    "appSize": "36.7MB",
+    "appLanguage": "中文"
+  },
+  {
+    "_id": "5cfdd51467f32d076e432b2d",
+    "appId": 18,
+    "appPhoto": [
+      "https://pic3.iqiyipic.com/common/20190514/cpsImgPC-11.png",
+      "https://pic3.iqiyipic.com/common/20190514/cpsImgPC-12.png",
+      "https://pic2.iqiyipic.com/common/20190514/cpsImgPC-13.png"
+    ],
+    "appRate": 4,
+    "appDeveloper": "Beijing Qiyi Century Science",
+    "appDetail": "爱奇艺APP是一款集视频、商城、购票、阅读、直播、泡泡粉丝社区等多种服务于一体的移动软件。爱奇艺为用户提供电影、电视剧、综艺、动漫、娱乐、热点资讯等内容，视频播放清晰流畅，操作界面简单友好。优质的纯网内容、贴心的生活服务满足用户“悦享品质、时尚青春”的生活追求。泡爱豆领福利，就在爱奇艺泡泡，个性追星就酱简单。",
+    "appCopyRight": "Copyright © 2017 爱奇艺 All Rights Reserved",
+    "appSize": "36.7MB",
+    "appLanguage": "中文"
+  },
+  {
+    "_id": "5cfdd52767f32d076e432b2e",
+    "appId": 19,
+    "appPhoto": [
+      "https://pic3.iqiyipic.com/common/20190514/cpsImgPC-11.png",
+      "https://pic3.iqiyipic.com/common/20190514/cpsImgPC-12.png",
+      "https://pic2.iqiyipic.com/common/20190514/cpsImgPC-13.png"
+    ],
+    "appRate": 4,
+    "appDeveloper": "Beijing Qiyi Century Science",
+    "appDetail": "爱奇艺APP是一款集视频、商城、购票、阅读、直播、泡泡粉丝社区等多种服务于一体的移动软件。爱奇艺为用户提供电影、电视剧、综艺、动漫、娱乐、热点资讯等内容，视频播放清晰流畅，操作界面简单友好。优质的纯网内容、贴心的生活服务满足用户“悦享品质、时尚青春”的生活追求。泡爱豆领福利，就在爱奇艺泡泡，个性追星就酱简单。",
+    "appCopyRight": "Copyright © 2017 爱奇艺 All Rights Reserved",
+    "appSize": "36.7MB",
+    "appLanguage": "中文"
+  },
+  {
+    "_id": "5cfdd53767f32d076e432b2f",
+    "appId": 20,
+    "appPhoto": [
+      "https://pic3.iqiyipic.com/common/20190514/cpsImgPC-11.png",
+      "https://pic3.iqiyipic.com/common/20190514/cpsImgPC-12.png",
+      "https://pic2.iqiyipic.com/common/20190514/cpsImgPC-13.png"
+    ],
+    "appRate": 4,
+    "appDeveloper": "Beijing Qiyi Century Science",
+    "appDetail": "爱奇艺APP是一款集视频、商城、购票、阅读、直播、泡泡粉丝社区等多种服务于一体的移动软件。爱奇艺为用户提供电影、电视剧、综艺、动漫、娱乐、热点资讯等内容，视频播放清晰流畅，操作界面简单友好。优质的纯网内容、贴心的生活服务满足用户“悦享品质、时尚青春”的生活追求。泡爱豆领福利，就在爱奇艺泡泡，个性追星就酱简单。",
+    "appCopyRight": "Copyright © 2017 爱奇艺 All Rights Reserved",
+    "appSize": "36.7MB",
+    "appLanguage": "中文"
+  },
+  {
+    "_id": "5cfdd57f67f32d076e432b30",
+    "appId": 21,
+    "appPhoto": [
+      "https://pic3.iqiyipic.com/common/20190514/cpsImgPC-11.png",
+      "https://pic3.iqiyipic.com/common/20190514/cpsImgPC-12.png",
+      "https://pic2.iqiyipic.com/common/20190514/cpsImgPC-13.png"
+    ],
+    "appRate": 4,
+    "appDeveloper": "Beijing Qiyi Century Science",
+    "appDetail": "爱奇艺APP是一款集视频、商城、购票、阅读、直播、泡泡粉丝社区等多种服务于一体的移动软件。爱奇艺为用户提供电影、电视剧、综艺、动漫、娱乐、热点资讯等内容，视频播放清晰流畅，操作界面简单友好。优质的纯网内容、贴心的生活服务满足用户“悦享品质、时尚青春”的生活追求。泡爱豆领福利，就在爱奇艺泡泡，个性追星就酱简单。",
+    "appCopyRight": "Copyright © 2017 爱奇艺 All Rights Reserved",
+    "appSize": "36.7MB",
+    "appLanguage": "中文"
+  },
+  {
+    "_id": "5cfdd5c467f32d076e432b31",
+    "appId": 22,
+    "appPhoto": [
+      "https://pic3.iqiyipic.com/common/20190514/cpsImgPC-11.png",
+      "https://pic3.iqiyipic.com/common/20190514/cpsImgPC-12.png",
+      "https://pic2.iqiyipic.com/common/20190514/cpsImgPC-13.png"
+    ],
+    "appRate": 4,
+    "appDeveloper": "Beijing Qiyi Century Science",
+    "appDetail": "爱奇艺APP是一款集视频、商城、购票、阅读、直播、泡泡粉丝社区等多种服务于一体的移动软件。爱奇艺为用户提供电影、电视剧、综艺、动漫、娱乐、热点资讯等内容，视频播放清晰流畅，操作界面简单友好。优质的纯网内容、贴心的生活服务满足用户“悦享品质、时尚青春”的生活追求。泡爱豆领福利，就在爱奇艺泡泡，个性追星就酱简单。",
+    "appCopyRight": "Copyright © 2017 爱奇艺 All Rights Reserved",
+    "appSize": "36.7MB",
+    "appLanguage": "中文"
+  }
+]
